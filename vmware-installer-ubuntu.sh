@@ -10,3 +10,7 @@ cd Downloads
 #make the file executable
 chmod +x VMware*.bundle
 
+#Run the installer
+sudo ./VMware*.bundle
+
+
