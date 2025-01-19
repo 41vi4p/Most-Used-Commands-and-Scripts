@@ -1,4 +1,4 @@
-# Most Used Command and Scripts <br> (For Ubuntu/Debian based Distros)
+# Most Used Command and Scripts <br> (For Ubuntu/Debian/Arch based Distros)
 
 A Collection of Linux scripts used when setting up your PC after Linux installation 
 
