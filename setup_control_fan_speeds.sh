@@ -13,4 +13,5 @@ sudo reboot
 #reboots the system
 #further instructions refer webpage
 
-
+#Continuously Monitor Fan Speeds
+watch -n 1 ‘sensors | grep fan‘
