@@ -9,6 +9,9 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
 
 source ~/.bashrc
 
+#bun install
+curl -fsSL https://bun.com/install | bash
+
 # Dislpay the installed version of nvm package manager
 nvm --version
 
@@ -18,3 +21,5 @@ nvm install node
 node --version
 
 npm --version
+
+bun --version
