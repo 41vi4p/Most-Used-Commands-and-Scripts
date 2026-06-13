@@ -36,4 +36,6 @@ npm install -g expo-cli eas-cli
 
 eas login
 
-eas build --platform android --local
+eas build --platform android --local --profile preview
+
+eas build --platform android --local --profile production
